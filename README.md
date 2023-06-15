@@ -1,6 +1,6 @@
 # Slider Carousel
 
-![Slider Carousel](public/sl-banner.png)
+![Slider Carousel](public/slider-carousel-sl-banner.png)
 
 ## Project Description
 
